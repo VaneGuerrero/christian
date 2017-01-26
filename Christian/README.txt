@@ -3,7 +3,7 @@ TITLE:
 Christian Sáenz - Fotografía y Video 
 
 AUTHOR:
-DESIGNED & DEVELOPED by PHRONEMOS.co
+DESIGNED & DEVELOPED by PHRONEMOS.COM 
 
 Website: http://phronemos.net/
  DateTimePicker
