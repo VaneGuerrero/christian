@@ -1,21 +1,12 @@
 
 TITLE: 
-Fotografy - One Page Responsive Free HTML5 template
+Christian Sáenz - Fotografía y Video 
 
 AUTHOR:
-DESIGNED & DEVELOPED by FREEHTML5.co
+DESIGNED & DEVELOPED by PHRONEMOS.co
 
-Website: http://freehtml5.co/
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
-
-
-CREDITS:
-
-Bootstrap
-http://getbootstrap.com/
-
-Bootstrap DateTimePicker
+Website: http://phronemos.net/
+ DateTimePicker
 https://github.com/Eonasdan/bootstrap-datetimepicker
 
 jQuery
@@ -49,5 +40,5 @@ FlexSlider
 https://www.woothemes.com/flexslider/
 
 Demo Images:
-http://pexels.com
-http://unsplash.com
+http://christiansáenz.com
+
